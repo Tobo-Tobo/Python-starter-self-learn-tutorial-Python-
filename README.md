@@ -3,7 +3,7 @@ In this project, you will learn the majority of python
 在这个项目中，您将学习Python的基础知识，包括基本语法和操作。
 
 ## 📚 学习内容 / What We'll Learn
-1. [变量 / Variables](variables.md)  
+1. [变量 / Variables](Variable.md)  
    - 字符串 / Strings
    - 整数/integer
    - 小数数字/float
