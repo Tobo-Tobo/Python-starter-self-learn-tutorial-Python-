@@ -69,7 +69,24 @@
   
   - 您可能会注意到整数运算结果中出现了浮点数。这是因为当1除以2时，结果为0.5，属于浮点
 
+# 1.2 String
+
+## 1.21 Starting type
+ - String is the starting type the data type. Inorder to use differen't types you would have to change it(It would be taught later on)
+ - Code:
+   
+   <img width="800" height="180" alt="Screenshot 2025-08-12 093233" src="https://github.com/user-attachments/assets/ac3b5a17-a99c-4e74-a9af-f180d03c30e0" />
+
+- Result:
+
+  <img width="400" height="80" alt="Screenshot 2025-08-12 093506" src="https://github.com/user-attachments/assets/42a7e591-ec9e-40c5-9806-854110d55f8a" />
+
+## 1.22 How and when to use string
+- To show a string you have to add "", '' or """ """
+- "": This is the double quotion and it is the same as ''
+- """ """ This refers to using triple single quotes (''') or triple double quotes (""") to define a string literal.
+
+  - When trying to print a string, you have to add "". However, when trying to input a string into a variable then you don't need to as shown above
+    - print(*Hello world")
 
 
-
-NOT FINISH IN PROGRESS
